@@ -13,6 +13,7 @@ export default function Home() {
 
       <main>
         <h1 className={styles.title}>Hello world!</h1>
+        <p>This is v2</p>
       </main>
     </div>
   );
