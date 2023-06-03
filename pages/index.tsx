@@ -14,6 +14,7 @@ export default function Home() {
       <main>
         <h1 className={styles.title}>Hello world!</h1>
         <p>This is v2</p>
+        <p>This is v3</p>
       </main>
     </div>
   );
